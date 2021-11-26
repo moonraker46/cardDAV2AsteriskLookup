@@ -1,6 +1,6 @@
-# cardDAV2AsteriskLookup
+# xml2AsteriskLookup
 
-This script has the purpose to lookup the name from an incoming call within asterisk.
+This script has the purpose to lookup the name from an XML phonebook for an incoming call within asterisk.
 
 ## Requirements
 * Valid XML phonebook (I do use the scripts from https://github.com/blacksenator/carddav2fb for generate a XML phonebook from my Baikal cardDAV server)
