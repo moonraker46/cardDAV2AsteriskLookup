@@ -7,4 +7,5 @@ This script has the purpose to lookup the name from an incoming call within aste
 * xmllint command is available (http://xmlsoft.org/xmllint.html). Can be installe from various sources for almost every Linux distro
 
 ##
-Usage: run the cid_lookup.sh script with a phone number as argument (e.g. "./cid_lookup 01761231231"). If there is an match within the XML phonebook the scripts will give back the corresponding name as value
+* Usage: run the cid_lookup.sh script with a phone number as argument (e.g. "./cid_lookup 01761231231"). If there is an match within the XML phonebook the scripts will give back the corresponding name as value
+* Run the script within your asterisk extension.conf like in the example file
